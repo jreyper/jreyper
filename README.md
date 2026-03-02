@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
 
 <p align="center">
-  <img src="" width="300" />
+  <img src="img/foto curriculum2.jpg" width="300" />
 </p>
 
 <p align="center">
